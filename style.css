@@ -1,0 +1,21 @@
+#fname{
+    background-color: gold;
+}
+#lname{
+    background-color: lightblue;
+}
+#Email{
+    background-color: blanchedalmond;
+}
+#Phonenumber{
+    background-color: darkgreen;
+}
+#Address{
+    background-color: aqua;
+}
+.ClassForm{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: purple;
+
+}
