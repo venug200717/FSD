@@ -9,20 +9,13 @@
 }
 #Phonenumber{
     background-color: darkgreen;
-
 }
-#tshirts{
-        background-color: rgb(29, 163, 71);
-}
-#gender{
-        background-color: rgb(206, 239, 42);
-}
-#food{
-        background-color: rgb(104, 225, 225);
+#Address{
+    background-color: aqua;
 }
 .ClassForm{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     background-color: purple;
-    background-image:url('07.jpg');
+
 }
