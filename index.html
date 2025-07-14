@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Registration form</h1>
+<link rel="stylesheet" href="style.css"
+form action="/action_page.php">
+  <h1 for="fname">First name:</h1><br>
+  <input type="text" id="fname" placeholder = "fname" value=""><br></br>
+  <h1 for="Email">Email:</h1></br>
+  <input type="text" id="Email" placeholder ="Email" value=""><br></br>
+  <h1 for="Phonenumber">Phonenumber:</h1><br>
+  <input type="text" id="Phonenumber" placeholder ="Phonenumber" value=""><br></br>
+  <label>T-Shirt Size:</label>
+  <div class="radio-groups">
+    <label><input type="radio" name="tshirts" value="XS" required>XS</label><br>
+    <label><input type="radio" name="tshirts" value="X"> X</label><br>
+    <label><input type="radio" name="tshirts" value="XL"> XL</label><br>
+    <label><input type="radio" name="tshirts" value="XXL"> XXL</label><br></br>
+  </div><br></br>
+  <label>Gender:</label>
+  <div class="radio-groups">
+    <label><input type="radio" name="gender" value="Male" required>Male</label><br>
+    <label><input type="radio" name="gender" value="Female">Female</label><br>
+    <label><input type="radio" name="gender" value="other">other</label><br>
+  </div><br></br>
+  <lable>Food preferance:</lable>
+  <div class="radio-groups">
+    <label><input type="radio" name="food" value="Veg" required>Veg</label><br>
+    <label><input type="radio" name="food" value="Non-veg">Non-veg</label><br>
+    <label><input type="radio" name="food" value="Vegan">Vegan</label><br>
+    <label><input type="radio" name="food" value="keto">keto</label><br>
+  </div><br></br>
+  <button onclick="submit()">submit</button>
+  <script src="script.js"></script>
+</body>
+</html>
