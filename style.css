@@ -1,28 +1,18 @@
-#fname{
-    background-color: gold;
-}
-#lname{
-    background-color: lightblue;
-}
-#Email{
-    background-color: blanchedalmond;
-}
-#Phonenumber{
-    background-color: darkgreen;
-
-}
-#tshirts{
-        background-color: rgb(29, 163, 71);
-}
-#gender{
-        background-color: rgb(206, 239, 42);
-}
-#food{
-        background-color: rgb(104, 225, 225);
-}
-.ClassForm{
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    background-color: purple;
-    background-image:url('07.jpg');
-}
+śś
+        h1{
+            color: rgb(245, 147, 188);
+        }
+        h2{
+            color: rgb(25, 128, 141);
+        }
+        h3{
+            color: rgb(12, 61, 73);
+        }
+        p{
+            color: rgb(64, 24, 90) ;
+        }
+        img{
+            border-radius:100%;
+        }
+        
+    
