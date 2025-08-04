@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(164, 241, 229);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hidden{
+    display:none;
+    color:#FF2c2c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
